@@ -19,4 +19,5 @@ Membuat model untuk memprediksi pelanggan yang akan membeli paket liburan terbar
 4. BUSINESS METRICS
 
 Total revenue
+
 convertion rate
