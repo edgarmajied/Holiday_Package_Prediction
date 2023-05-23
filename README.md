@@ -7,6 +7,7 @@ Perusahaan traveling 'Trips & Travel.Com' membuat penawaran paket liburan terbar
 
 Pada tahun lalu, hanya 18% pelanggan yang membeli paket liburan yang ditawarkan.
 Revenue perusahaan tidak mengalami peningkatan yang signifikan.
+
 2. GOAL
 
 Untuk menaikkan convertion rate dan revenue perusahaan.
